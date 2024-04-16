@@ -38,7 +38,7 @@ class YellowMemo {
             $output .= "<script type=\"application/json\" id=\"memoMessages\">\n";
             $messageFile = $this->yellow->system->get("coreExtensionDirectory").$this->yellow->system->get("memoMessageFile");
             $messageData = $this->yellow->toolbox->readFile($messageFile);
-            $output .= $messageData;
+            $output .= str_replace(array("\r\n","\r","\n"), "", $messageData);
             $output .= "</script>\n";
         }
         return $output;
