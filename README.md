@@ -1,3 +1,5 @@
+<p align="right"><a href="README-de.md">Deutsch</a> &nbsp; <a href="README.md">English</a></p>
+
 # Memo 0.9.1
 
 Display random memos.
@@ -16,7 +18,7 @@ The following arguments are available, All arguments are optional:
 `Label` = Label for the open memo button.  
 `CloseLabel` = Label for the close memo button.  
 
-This extension displays a random text message as toast notification when clicking the button. Originating from a fun web page to nag people with silly messages, it can be used as a toy for random notes, quotes, virtual fortune cookies, or whatever you like to call it. Messages must be text only, Markdown or HTML is not possible. 
+This extension displays a random text message as toast notification when clicking the button. Originating from a fun web page to nag people with silly messages, it can be used for any project. As a toy for random notes, quotes, virtual fortune cookies, tipps and tricks, or whatever you like. I'm currently using it as small toy for a website dedicated to blind android users, randomly displaying short tipps for the operating system. Messages must be text only, Markdown or HTML is not possible. 
 
 ## Examples
 
