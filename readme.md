@@ -1,8 +1,6 @@
-<p align="right"><a href="readme-de.md">Deutsch</a> &nbsp; <a href="readme.md">English</a></p>
-
 # Memo 0.9.1
 
-Display random memos.
+Display random memos. Developed by Steffen Schultz.
 
 
 ## How to install an extension
@@ -51,6 +49,4 @@ The following file can be customised:
 
 `system/extensions/memo.json` = configuration file for memos, JSON format  
 
-## Developer
-
-Steffen Schultz. [Get help](https://datenstrom.se/yellow/help/).
+Do you have questions? [Get help](https://datenstrom.se/yellow/help/).

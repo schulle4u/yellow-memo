@@ -1,8 +1,6 @@
-<p align="right"><a href="readme-de.md">Deutsch</a> &nbsp; <a href="readme.md">English</a></p>
-
 # Memo 0.9.1
 
-Zufällige Kurzmitteilungen anzeigen.
+Zufällige Kurzmitteilungen anzeigen. Entwickelt von Steffen Schultz.
 
 
 ## Wie man eine Erweiterung installiert
@@ -51,6 +49,4 @@ Die folgende Datei kann angepasst werden:
 
 `system/extensions/memo.json` = Konfigurationsdatei für Kurzmitteilungen, JSON-Format  
 
-## Entwickler
-
-Steffen Schultz. [Hilfe finden](https://datenstrom.se/yellow/help/).
+Hast du Fragen? [Hilfe finden](https://datenstrom.se/yellow/help/).
